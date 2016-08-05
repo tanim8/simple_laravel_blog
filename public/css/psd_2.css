@@ -1,0 +1,20 @@
+#community_b{
+    background:linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)),
+        rgba(0,0,0,0.55) url("../images/img3.png");
+    background-color: black;
+
+}
+#community_b_1{
+
+    color: white;
+}
+#community_b_2{
+    background: linear-gradient(rgba(155, 155, 155, 0.2), rgba(155, 155, 155, 0.2)),
+        rgba(155,155,155,0.2) ;
+
+    color: white;
+
+}
+.circle_text{
+    color:white;
+}
